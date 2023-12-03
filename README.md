@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 
+
+I'm making a portfolio to showcase my skills as they grow. 
+I'm desiring to get into the cybersecurity industry.
 
 <!--
 **jamesmp22/jamesmp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
