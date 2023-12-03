@@ -1,0 +1,12 @@
+This write up is purely from memory. This is my very basic guide on how to navigate in Linux
+
+PWD enter - This will tell you where you are. Based on this you can go forward or backwards.
+
+cd enter - This stands for change directory , you can use this command followed by the file name and enter , this will take you forward into that file.
+
+cd .. enter - this will take you back. You can use this commands up until you just see a " / " 
+
+ls enter - this will list the contents of the file you are directly on. 
+
+cat enter - you can use this to read .txt files.
+
