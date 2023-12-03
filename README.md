@@ -3,6 +3,10 @@
 I'm making a portfolio to showcase my skills as they grow. 
 I'm desiring to get into the cybersecurity industry.
 
+
+Skills I'm currently trying to sharpen:
+* Programming - I'm currently learning the basics of linux , then I will be moving into Python.
+* Tools - I'm working on making a File Integrity Monitor. Coming Soon!
 <!--
 **jamesmp22/jamesmp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
