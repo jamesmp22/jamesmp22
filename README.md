@@ -7,6 +7,8 @@ I'm desiring to get into the cybersecurity industry.
 Skills I'm currently trying to sharpen:
 * Programming - I'm currently learning the basics of linux , then I will be moving into Python. (Ill be listing terms as I go)
 * Tools - I'm working on making a File Integrity Monitor. Coming Soon!
+
+* This is the very beginning of my portfolio, it will be refined over time. 
 <!--
 **jamesmp22/jamesmp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
