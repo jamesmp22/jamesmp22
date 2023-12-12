@@ -10,7 +10,7 @@ Skills I'm currently trying to sharpen:
 
 * This is the very beginning of my portfolio, it will be refined over time.
 
-* Feel Free to go to projects and view my Professional Statement.
+* Feel Free to go to projects and view what I have so far.
 <!--
 **jamesmp22/jamesmp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
